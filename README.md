@@ -1,4 +1,3 @@
-<img src="http://bitcore.io/css/images/module-message.png" alt="bitcore message" height="35">
 # Bitcoin Cash Message Verification and Signing for Bitcore
 
 @bookmoons/bitcore-message-cash adds support for verifying and signing bitcoin cash messages in [Node.js](http://nodejs.org/) and web browsers.
