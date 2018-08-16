@@ -11,7 +11,7 @@ npm install @bookmoons/bitcore-message-cash
 ```
 
 ```sh
-bower install @bookmoons/bitcore-message-cash
+bower install bookmoons.bitcore-message-cash
 ```
 
 To sign a message:

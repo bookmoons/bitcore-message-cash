@@ -1,19 +1,16 @@
 {
-  "name": "bitcore-message",
-  "main": "./bitcore-message.min.js",
+  "name": "bookmoons.bitcore-message-cash",
+  "main": "./bitcore-message-cash.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-message",
-  "authors": [
-    "BitPay"
-  ],
-  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "homepage": "https://github.com/bookmoons/bitcore-message-cash",
+  "description": "Bitcore based message signing for Bitcoin Cash",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
+    "bitcoin cash",
     "bitcore",
-    "btc",
+    "bch",
     "satoshi",
     "message",
     "signing"
