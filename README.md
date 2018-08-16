@@ -33,10 +33,6 @@ var signature = 'H/DIn8uA1scAuKLlCx+/9LnAcJtwQQ0PmcPrJUq90aboLv3fH5fFvY+vmbfOSFE
 var verified = Message('hello, world').verify(address, signature);
 ```
 
-## Contributing
-
-See [CONTRIBUTING.md](https://github.com/bitpay/bitcore/blob/master/CONTRIBUTING.md) on the main bitcore repo for information about how to contribute.
-
 ## License
 
 Code released under [the MIT license](https://github.com/bitpay/bitcore/blob/master/LICENSE).
