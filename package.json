@@ -2,7 +2,6 @@
   "name": "@bookmoons/bitcore-message-cash",
   "version": "1.0.3",
   "description": "Bitcore based message signing for Bitcoin Cash",
-  "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
