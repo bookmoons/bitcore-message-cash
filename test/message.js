@@ -15,7 +15,7 @@ describe('Message', function() {
   var badAddress = 'mmRcrB5fTwgxaFJmVLNtaG8SV454y1E3kC';
   var privateKey = bitcore.PrivateKey.fromWIF('cPBn5A4ikZvBTQ8D7NnvHZYCAxzDZ5Z2TSGW2LkyPiLxqYaJPBW4');
   var text = 'hello, world';
-  var signatureString = 'H/DIn8uA1scAuKLlCx+/9LnAcJtwQQ0PmcPrJUq90aboLv3fH5fFvY+vmbfOSFEtGarznYli6ShPr9RXwY9UrIY=';
+  var signatureString = 'IK5vjU5Q9fs7kN7YIrBbhp041Tt/5t39ZD1IBgno9bteYU5rq6ez/Nf97XHRBnmqPdGUjoeqg2I0H7CaNvXqfMQ=';
 
   var badSignatureString = 'H69qZ4mbZCcvXk7CWjptD5ypnYVLvQ3eMXLM8+1gX21SLH/GaFnAjQrDn37+TDw79i9zHhbiMMwhtvTwnPigZ6k=';
 
