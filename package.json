@@ -1,6 +1,6 @@
 {
   "name": "@bookmoons/bitcore-message-cash",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "description": "Bitcore based message signing for Bitcoin Cash",
   "main": "index.js",
   "scripts": {
