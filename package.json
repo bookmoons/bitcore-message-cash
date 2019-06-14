@@ -1,6 +1,6 @@
 {
   "name": "@bookmoons/bitcore-message-cash",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "Bitcore based message signing for Bitcoin Cash",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "signing"
   ],
   "repository": "github:bookmoons/bitcore-message-cash",
-  "dependencies": {
+  "peerDependencies": {
     "bitcore-lib-cash": "^0.18.1"
   },
   "devDependencies": {
